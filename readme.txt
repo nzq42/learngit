@@ -6,4 +6,8 @@ make a branch is quick
 easy and simple
 add merge
 fix bug 101
+finish work 01
+finish work 02
+finish work 03
+finish 04
 
