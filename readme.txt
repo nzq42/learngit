@@ -5,4 +5,5 @@ git tracks changes of files
 make a branch is quick
 easy and simple
 add merge
-doing work
+doing work 01
+finish work 02
